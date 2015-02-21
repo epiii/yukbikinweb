@@ -1,0 +1,2513 @@
+# Copyright (C) 2014 Mymoun
+# This file is distributed under the ---.
+msgid ""
+msgstr ""
+"Project-Id-Version: Flat Metro 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/flat-metro\n"
+"POT-Creation-Date: 2014-04-18 17:49:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:29
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: comments.php:8
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: comments.php:9
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:10 inc/tools.php:92
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:16 inc/tools.php:119
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:31
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:36
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:46
+msgid "No Responses to"
+msgstr ""
+
+#: comments.php:46
+msgid "One Response to"
+msgstr ""
+
+#: comments.php:46
+msgid "% Responses to"
+msgstr ""
+
+#: comments.php:53
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:70
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:70 woocommerce/single-product-reviews.php:58
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:73
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:77
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: comments.php:77
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:77
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:80
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:420
+#: woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: comments.php:80 comments.php:84
+msgid " (required)"
+msgstr ""
+
+#: comments.php:84
+msgid "Email (will not be published)"
+msgstr ""
+
+#: comments.php:88
+msgid "Website"
+msgstr ""
+
+#: comments.php:93
+msgid "Comment"
+msgstr ""
+
+#: comments.php:96
+msgid "You can use these tags:"
+msgstr ""
+
+#: comments.php:97
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:92 lib/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:93 lib/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:94 lib/class-tgm-plugin-activation.php:157
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:95
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:96 lib/class-tgm-plugin-activation.php:159
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:97 lib/class-tgm-plugin-activation.php:160
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:98 lib/class-tgm-plugin-activation.php:161
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:99 lib/class-tgm-plugin-activation.php:162
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:100 lib/class-tgm-plugin-activation.php:163
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:101 lib/class-tgm-plugin-activation.php:164
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:102 lib/class-tgm-plugin-activation.php:165
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:103 lib/class-tgm-plugin-activation.php:166
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:104 lib/class-tgm-plugin-activation.php:167
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:105 lib/class-tgm-plugin-activation.php:168
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:106 lib/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:107 lib/class-tgm-plugin-activation.php:171
+#: lib/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:108
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:178
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:257
+msgid "Home"
+msgstr ""
+
+#: inc/meta-boxes/projet-slider.php:8
+msgid "slider box"
+msgstr ""
+
+#: inc/meta-boxes/projet-slider.php:27
+msgid "Show pictures of this project in Homepage slider"
+msgstr ""
+
+#: inc/post-types.php:8 inc/section-pages.php:54
+msgid "Testimonials"
+msgstr ""
+
+#: inc/post-types.php:9
+msgid "testimonial"
+msgstr ""
+
+#: inc/post-types.php:10 inc/post-types.php:11 inc/post-types.php:13
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/post-types.php:12
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/post-types.php:14
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/post-types.php:15
+msgid "Search Testimonial"
+msgstr ""
+
+#: inc/post-types.php:16
+msgid "No Testimonials found"
+msgstr ""
+
+#: inc/post-types.php:17
+msgid "No Testimonials found in trash"
+msgstr ""
+
+#: inc/post-types.php:37
+msgid "Portfolio"
+msgstr ""
+
+#: inc/post-types.php:38
+msgid "portfolio"
+msgstr ""
+
+#: inc/post-types.php:39 inc/post-types.php:40 inc/post-types.php:42
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: inc/post-types.php:41
+msgid "Edit portfolio"
+msgstr ""
+
+#: inc/post-types.php:43
+msgid "View Portfolio Item"
+msgstr ""
+
+#: inc/post-types.php:44
+msgid "Search Portfolio Item"
+msgstr ""
+
+#: inc/post-types.php:45
+msgid "No Portfolio Item found"
+msgstr ""
+
+#: inc/post-types.php:46
+msgid "No Portfolio Item found in trash"
+msgstr ""
+
+#: inc/post-types.php:69
+msgid "Team Members"
+msgstr ""
+
+#: inc/post-types.php:70
+msgid "team member"
+msgstr ""
+
+#: inc/post-types.php:71 inc/post-types.php:72 inc/post-types.php:74
+msgid "Add New Team Member"
+msgstr ""
+
+#: inc/post-types.php:73
+msgid "Edit Team Member"
+msgstr ""
+
+#: inc/post-types.php:75
+msgid "View Team Member"
+msgstr ""
+
+#: inc/post-types.php:76
+msgid "Search Team Member"
+msgstr ""
+
+#: inc/post-types.php:77
+msgid "No Team Member found"
+msgstr ""
+
+#: inc/post-types.php:78
+msgid "No Team Member found in trash"
+msgstr ""
+
+#: inc/section-pages.php:34
+msgid "Featuread Posts"
+msgstr ""
+
+#: inc/section-pages.php:44
+msgid "There's no featuread posts yet, please create posts in \"featured\" category  "
+msgstr ""
+
+#: inc/section-pages.php:82
+msgid "Our Theam"
+msgstr ""
+
+#: inc/section-pages.php:108
+msgid "Latest Tweets"
+msgstr ""
+
+#: inc/section-pages.php:142
+msgid "Next Events"
+msgstr ""
+
+#: inc/section-pages.php:174
+msgid "There is no next event to show."
+msgstr ""
+
+#: inc/section-pages.php:180
+msgid "The plugin \"The Events Calendar\" should be actived to use this tile, please enable it."
+msgstr ""
+
+#: inc/section-pages.php:209
+msgid "Featured Projects"
+msgstr ""
+
+#: inc/tools.php:62
+msgid "Post navigation"
+msgstr ""
+
+#: inc/tools.php:63
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/tools.php:64
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/tools.php:92
+msgid "Pingback:"
+msgstr ""
+
+#: inc/tools.php:107
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+
+#: inc/tools.php:113
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/tools.php:124 lib/advanced-custom-fields/core/fields/image.php:84
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:108
+msgid "Edit"
+msgstr ""
+
+#: inc/tools.php:128
+msgid "Reply"
+msgstr ""
+
+#: index.php:21
+msgid "Category Archives"
+msgstr ""
+
+#: index.php:23
+msgid "Tag Archives"
+msgstr ""
+
+#: index.php:25
+msgid "Yearly Archives"
+msgstr ""
+
+#: index.php:27
+msgid "Monthly Archives"
+msgstr ""
+
+#: index.php:29
+msgid "Daily Archives"
+msgstr ""
+
+#: index.php:31
+msgid "Author Archives"
+msgstr ""
+
+#: index.php:57 page.php:24 search.php:37
+msgid "Permalink to %s"
+msgstr ""
+
+#: index.php:70 search.php:50
+msgid "Read more"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:455
+msgid "Field&nbsp;Groups"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:456
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:214
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:457
+msgid "Add New"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:458
+msgid "Add New Field Group"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:459
+msgid "Edit Field Group"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:460
+msgid "New Field Group"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:461
+msgid "View Field Group"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:462
+msgid "Search Field Groups"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:463
+msgid "No Field Groups found"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:464
+msgid "No Field Groups found in Trash"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:567
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:99
+msgid "Custom Fields"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:585
+#: lib/advanced-custom-fields/acf.php:588
+msgid "Field group updated."
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:586
+msgid "Custom field updated."
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:587
+msgid "Custom field deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+
+#: lib/advanced-custom-fields/acf.php:590
+msgid "Field group restored to revision from %s"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:591
+msgid "Field group published."
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:592
+msgid "Field group saved."
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:593
+msgid "Field group submitted."
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:594
+msgid "Field group scheduled for."
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:595
+msgid "Field group draft updated."
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:730
+msgid "Thumbnail"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:731
+msgid "Medium"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:732
+msgid "Large"
+msgstr ""
+
+#: lib/advanced-custom-fields/acf.php:733
+msgid "Full"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/actions/export.php:26
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:58
+msgid "Error"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/actions/export.php:33
+msgid "No ACF groups selected"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/api.php:1162
+msgid "Update"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/api.php:1163
+msgid "Post updated"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:42
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:307
+msgid "Add-ons"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:130
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:429
+msgid "Repeater Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:131
+msgid "Create infinite rows of repeatable data with this versatile interface!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:137
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:437
+msgid "Gallery Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:138
+msgid "Create image galleries in a simple and intuitive interface!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:144
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:445
+msgid "Options Page"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:145
+msgid "Create global data to use throughout your website!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:151
+msgid "Flexible Content Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:152
+msgid "Create unique designs with a flexible content layout manager!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:161
+msgid "Gravity Forms Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:162
+msgid "Creates a select field populated with Gravity Forms!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:168
+msgid "Date & Time Picker"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:169
+msgid "jQuery date & time picker"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:175
+msgid "Location Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:176
+msgid "Find addresses and coordinates of a desired location"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:182
+msgid "Contact Form 7 Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:183
+msgid "Assign one or more contact form 7 forms to a post"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:193
+msgid "Advanced Custom Fields Add-Ons"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:196
+msgid "The following Add-ons are available to increase the functionality of the Advanced Custom Fields plugin."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:197
+msgid "Each Add-on can be installed as a separate plugin (receives updates) or included in your theme (does not receive updates)."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:219
+#: lib/advanced-custom-fields/core/controllers/addons.php:240
+msgid "Installed"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:221
+msgid "Purchase & Install"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/addons.php:242
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:422
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:431
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:439
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:447
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:455
+msgid "Download"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:50
+#: lib/advanced-custom-fields/core/controllers/export.php:159
+msgid "Export"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:216
+msgid "Export Field Groups"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:221
+msgid "Field Groups"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:222
+msgid "Select the field groups to be exported"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:239
+#: lib/advanced-custom-fields/core/controllers/export.php:252
+msgid "Export to XML"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:242
+#: lib/advanced-custom-fields/core/controllers/export.php:267
+msgid "Export to PHP"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:253
+msgid "ACF will create a .xml export file which is compatible with the native WP import plugin."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:254
+msgid "Imported field groups <b>will</b> appear in the list of editable field groups. This is useful for migrating fields groups between Wp websites."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:256
+msgid "Select field group(s) from the list and click \"Export XML\""
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:257
+msgid "Save the .xml file when prompted"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:258
+msgid "Navigate to Tools &raquo; Import and select WordPress"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:259
+msgid "Install WP import plugin if prompted"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:260
+msgid "Upload and import your exported .xml file"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:261
+msgid "Select your user and ignore Import Attachments"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:262
+msgid "That's it! Happy WordPressing"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:268
+msgid "ACF will create the PHP code to include in your theme."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:269
+#: lib/advanced-custom-fields/core/controllers/export.php:310
+msgid "Registered field groups <b>will not</b> appear in the list of editable field groups. This is useful for including fields in themes."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:270
+#: lib/advanced-custom-fields/core/controllers/export.php:311
+msgid "Please note that if you export and register field groups within the same WP, you will see duplicate fields on your edit screens. To fix this, please move the original field group to the trash or remove the code from your functions.php file."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:272
+msgid "Select field group(s) from the list and click \"Create PHP\""
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:273
+#: lib/advanced-custom-fields/core/controllers/export.php:302
+msgid "Copy the PHP code generated"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:274
+#: lib/advanced-custom-fields/core/controllers/export.php:303
+msgid "Paste into your functions.php file"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:275
+#: lib/advanced-custom-fields/core/controllers/export.php:304
+msgid "To activate any Add-ons, edit and use the code in the first few lines."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:295
+msgid "Export Field Groups to PHP"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:300
+#: lib/advanced-custom-fields/core/fields/tab.php:65
+msgid "Instructions"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:309
+msgid "Notes"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:316
+msgid "Include in theme"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:317
+msgid "The Advanced Custom Fields plugin can be included within a theme. To do so, move the ACF plugin inside your theme and add the following code to your functions.php file:"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:323
+msgid "To remove all visual interfaces from the ACF plugin, you can use a constant to enable lite mode. Add the following code to your functions.php file <b>before</b> the include_once code:"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:331
+msgid "Back to export"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/export.php:400
+msgid "No field groups were selected"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:358
+msgid "Move to trash. Are you sure?"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:359
+msgid "checked"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:360
+msgid "No toggle fields available"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:361
+msgid "Field group title is required"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:362
+msgid "copy"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:363
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:62
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:159
+msgid "or"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:364
+#: lib/advanced-custom-fields/core/controllers/field_group.php:395
+#: lib/advanced-custom-fields/core/controllers/field_group.php:457
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:148
+msgid "Fields"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:365
+msgid "Parent fields"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:366
+msgid "Sibling fields"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:367
+msgid "Hide / Show All"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:396
+msgid "Location"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:397
+msgid "Options"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:459
+msgid "Show Field Key:"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:460
+#: lib/advanced-custom-fields/core/fields/page_link.php:138
+#: lib/advanced-custom-fields/core/fields/page_link.php:159
+#: lib/advanced-custom-fields/core/fields/post_object.php:328
+#: lib/advanced-custom-fields/core/fields/post_object.php:349
+#: lib/advanced-custom-fields/core/fields/select.php:224
+#: lib/advanced-custom-fields/core/fields/select.php:243
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:343
+#: lib/advanced-custom-fields/core/fields/user.php:285
+#: lib/advanced-custom-fields/core/fields/wysiwyg.php:256
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:195
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:218
+msgid "No"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:461
+#: lib/advanced-custom-fields/core/fields/page_link.php:137
+#: lib/advanced-custom-fields/core/fields/page_link.php:158
+#: lib/advanced-custom-fields/core/fields/post_object.php:327
+#: lib/advanced-custom-fields/core/fields/post_object.php:348
+#: lib/advanced-custom-fields/core/fields/select.php:223
+#: lib/advanced-custom-fields/core/fields/select.php:242
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:342
+#: lib/advanced-custom-fields/core/fields/user.php:284
+#: lib/advanced-custom-fields/core/fields/wysiwyg.php:255
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:194
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:217
+msgid "Yes"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:645
+msgid "Front Page"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:646
+msgid "Posts Page"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:647
+msgid "Top Level Page (parent of 0)"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:648
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:649
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:657
+msgid "Default Template"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:734
+msgid "Publish"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:735
+msgid "Pending Review"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:736
+msgid "Draft"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:737
+msgid "Future"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:738
+msgid "Private"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:739
+msgid "Revision"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:740
+msgid "Trash"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:753
+msgid "Super Admin"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_group.php:768
+#: lib/advanced-custom-fields/core/controllers/field_group.php:789
+#: lib/advanced-custom-fields/core/controllers/field_group.php:796
+#: lib/advanced-custom-fields/core/fields/file.php:186
+#: lib/advanced-custom-fields/core/fields/image.php:170
+#: lib/advanced-custom-fields/core/fields/page_link.php:109
+#: lib/advanced-custom-fields/core/fields/post_object.php:274
+#: lib/advanced-custom-fields/core/fields/post_object.php:298
+#: lib/advanced-custom-fields/core/fields/relationship.php:598
+#: lib/advanced-custom-fields/core/fields/relationship.php:622
+#: lib/advanced-custom-fields/core/fields/user.php:229
+msgid "All"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:147
+msgid "Title"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:216
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:253
+msgid "Changelog"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:217
+msgid "See what's new in"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:217
+msgid "version"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:219
+msgid "Resources"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:221
+msgid "Getting Started"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:222
+msgid "Field Types"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:223
+msgid "Functions"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:224
+msgid "Actions"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:225
+#: lib/advanced-custom-fields/core/fields/relationship.php:641
+msgid "Filters"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:226
+msgid "'How to' guides"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:227
+msgid "Tutorials"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:232
+msgid "Created by"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:244
+msgid "Welcome to Advanced Custom Fields"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:245
+msgid "Thank you for updating to the latest version!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:245
+msgid "is more polished and enjoyable than ever before. We hope you like it."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:252
+msgid "What’s New"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:255
+msgid "Download Add-ons"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:309
+msgid "Activation codes have grown into plugins!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:310
+msgid "Add-ons are now activated by downloading and installing individual plugins. Although these plugins will not be hosted on the wordpress.org repository, each Add-on will continue to receive updates in the usual way."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:316
+msgid "All previous Add-ons have been successfully installed"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:320
+msgid "This website uses premium Add-ons which need to be downloaded"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:320
+msgid "Download your activated Add-ons"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:325
+msgid "This website does not use premium Add-ons and will not be affected by this change."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:335
+msgid "Easier Development"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:337
+msgid "New Field Types"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:339
+msgid "Taxonomy Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:340
+msgid "User Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:341
+msgid "Email Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:342
+msgid "Password Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:344
+msgid "Custom Field Types"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:345
+msgid "Creating your own field type has never been easier! Unfortunately, version 3 field types are not compatible with version 4."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:346
+msgid "Migrating your field types is easy, please"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:346
+msgid "follow this tutorial"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:346
+msgid "to learn more."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:348
+msgid "Actions &amp; Filters"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:349
+msgid "All actions & filters have received a major facelift to make customizing ACF even easier! Please"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:349
+msgid "read this guide"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:349
+msgid "to find the updated naming convention."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:351
+msgid "Preview draft is now working!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:352
+msgid "This bug has been squashed along with many other little critters!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:352
+msgid "See the full changelog"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:356
+msgid "Important"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:358
+msgid "Database Changes"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:359
+msgid "Absolutely <strong>no</strong> changes have been made to the database between versions 3 and 4. This means you can roll back to version 3 without any issues."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:361
+msgid "Potential Issues"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:362
+msgid "Do to the sizable changes surounding Add-ons, field types and action/filters, your website may not operate correctly. It is important that you read the full"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:362
+msgid "Migrating from v3 to v4"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:362
+msgid "guide to view the full list of changes."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:365
+msgid "Really Important!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:365
+msgid "If you updated the ACF plugin without prior knowledge of such changes, please roll back to the latest"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:365
+msgid "version 3"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:365
+msgid "of this plugin."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:370
+msgid "Thank You"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:371
+msgid "A <strong>BIG</strong> thank you to everyone who has helped test the version 4 beta and for all the support I have received."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:372
+msgid "Without you all, this release would not have been possible!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:376
+msgid "Changelog for"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:393
+msgid "Learn more"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:399
+msgid "Overview"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:401
+msgid "Previously, all Add-ons were unlocked via an activation code (purchased from the ACF Add-ons store). New to v4, all Add-ons act as separate plugins which need to be individually downloaded, installed and updated."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:403
+msgid "This page will assist you in downloading and installing each available Add-on."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:405
+msgid "Available Add-ons"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:407
+msgid "The following Add-ons have been detected as activated on this website."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:421
+msgid "Activation Code"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:453
+msgid "Flexible Content"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:463
+msgid "Installation"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:465
+msgid "For each Add-on available, please perform the following:"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:467
+msgid "Download the Add-on plugin (.zip file) to your desktop"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:468
+msgid "Navigate to"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:468
+msgid "Plugins > Add New > Upload"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:469
+msgid "Use the uploader to browse, select and install your Add-on (.zip file)"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:470
+msgid "Once the plugin has been uploaded and installed, click the 'Activate Plugin' link"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:471
+msgid "The Add-on is now installed and activated!"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/field_groups.php:485
+msgid "Awesome. Let's get to work"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/input.php:63
+msgid "Expand Details"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/input.php:64
+msgid "Collapse Details"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/input.php:67
+msgid "Validation Failed. One or more fields below are required."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/upgrade.php:86
+msgid "Upgrade"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/upgrade.php:139
+msgid "What's new"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/upgrade.php:150
+msgid "credits"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/upgrade.php:684
+msgid "Modifying field group options 'show on page'"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/upgrade.php:738
+msgid "Modifying field option 'taxonomy'"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/controllers/upgrade.php:835
+msgid "Moving user custom fields from wp_options to wp_usermeta'"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/_base.php:124
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:74
+msgid "Basic"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:19
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:319
+msgid "Checkbox"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:20
+#: lib/advanced-custom-fields/core/fields/radio.php:19
+#: lib/advanced-custom-fields/core/fields/select.php:19
+#: lib/advanced-custom-fields/core/fields/true_false.php:20
+msgid "Choice"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:146
+#: lib/advanced-custom-fields/core/fields/radio.php:147
+#: lib/advanced-custom-fields/core/fields/select.php:177
+msgid "Choices"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:147
+#: lib/advanced-custom-fields/core/fields/select.php:178
+msgid "Enter each choice on a new line."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:148
+#: lib/advanced-custom-fields/core/fields/select.php:179
+msgid "For more control, you may specify both a value and label like this:"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:149
+#: lib/advanced-custom-fields/core/fields/radio.php:153
+#: lib/advanced-custom-fields/core/fields/select.php:180
+msgid "red : Red"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:149
+#: lib/advanced-custom-fields/core/fields/radio.php:154
+#: lib/advanced-custom-fields/core/fields/select.php:180
+msgid "blue : Blue"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:166
+#: lib/advanced-custom-fields/core/fields/color_picker.php:89
+#: lib/advanced-custom-fields/core/fields/email.php:106
+#: lib/advanced-custom-fields/core/fields/number.php:116
+#: lib/advanced-custom-fields/core/fields/radio.php:196
+#: lib/advanced-custom-fields/core/fields/select.php:197
+#: lib/advanced-custom-fields/core/fields/text.php:116
+#: lib/advanced-custom-fields/core/fields/textarea.php:96
+#: lib/advanced-custom-fields/core/fields/true_false.php:94
+#: lib/advanced-custom-fields/core/fields/wysiwyg.php:198
+msgid "Default Value"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:167
+#: lib/advanced-custom-fields/core/fields/select.php:198
+msgid "Enter each default value on a new line"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:183
+#: lib/advanced-custom-fields/core/fields/message.php:20
+#: lib/advanced-custom-fields/core/fields/radio.php:212
+#: lib/advanced-custom-fields/core/fields/tab.php:20
+msgid "Layout"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:194
+#: lib/advanced-custom-fields/core/fields/radio.php:223
+msgid "Vertical"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/checkbox.php:195
+#: lib/advanced-custom-fields/core/fields/radio.php:224
+msgid "Horizontal"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/color_picker.php:19
+msgid "Color Picker"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/color_picker.php:20
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:20
+#: lib/advanced-custom-fields/core/fields/google-map.php:19
+msgid "jQuery"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:19
+msgid "Date Picker"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:55
+msgid "Done"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:56
+msgid "Today"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:59
+msgid "Show a different month"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:126
+msgid "Save format"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:127
+msgid "This format will determin the value saved to the database and returned via the API"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:128
+msgid "\"yymmdd\" is the most versatile save format. Read more about"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:128
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:144
+msgid "jQuery date formats"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:142
+msgid "Display format"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:143
+msgid "This format will be seen by the user when entering a value"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:144
+msgid "\"dd/mm/yy\" or \"mm/dd/yy\" are the most used display formats. Read more about"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/date_picker/date_picker.php:158
+msgid "Week Starts On"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/dummy.php:19
+msgid "Dummy"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/email.php:19
+#: woocommerce/single-product-reviews.php:64
+msgid "Email"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/email.php:107
+#: lib/advanced-custom-fields/core/fields/number.php:117
+#: lib/advanced-custom-fields/core/fields/text.php:117
+#: lib/advanced-custom-fields/core/fields/textarea.php:97
+#: lib/advanced-custom-fields/core/fields/wysiwyg.php:199
+msgid "Appears when creating a new post"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/email.php:123
+#: lib/advanced-custom-fields/core/fields/number.php:133
+#: lib/advanced-custom-fields/core/fields/password.php:105
+#: lib/advanced-custom-fields/core/fields/text.php:131
+#: lib/advanced-custom-fields/core/fields/textarea.php:111
+msgid "Placeholder Text"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/email.php:124
+#: lib/advanced-custom-fields/core/fields/number.php:134
+#: lib/advanced-custom-fields/core/fields/password.php:106
+#: lib/advanced-custom-fields/core/fields/text.php:132
+#: lib/advanced-custom-fields/core/fields/textarea.php:112
+msgid "Appears within the input"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/email.php:138
+#: lib/advanced-custom-fields/core/fields/number.php:148
+#: lib/advanced-custom-fields/core/fields/password.php:120
+#: lib/advanced-custom-fields/core/fields/text.php:146
+msgid "Prepend"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/email.php:139
+#: lib/advanced-custom-fields/core/fields/number.php:149
+#: lib/advanced-custom-fields/core/fields/password.php:121
+#: lib/advanced-custom-fields/core/fields/text.php:147
+msgid "Appears before the input"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/email.php:153
+#: lib/advanced-custom-fields/core/fields/number.php:163
+#: lib/advanced-custom-fields/core/fields/password.php:135
+#: lib/advanced-custom-fields/core/fields/text.php:161
+msgid "Append"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/email.php:154
+#: lib/advanced-custom-fields/core/fields/number.php:164
+#: lib/advanced-custom-fields/core/fields/password.php:136
+#: lib/advanced-custom-fields/core/fields/text.php:162
+msgid "Appears after the input"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:19
+msgid "File"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:20
+#: lib/advanced-custom-fields/core/fields/image.php:20
+#: lib/advanced-custom-fields/core/fields/wysiwyg.php:36
+msgid "Content"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:26
+msgid "Select File"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:27
+msgid "Edit File"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:28
+msgid "Update File"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:29
+#: lib/advanced-custom-fields/core/fields/image.php:30
+msgid "uploaded to this post"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:123
+msgid "No File Selected"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:123
+msgid "Add File"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:153
+#: lib/advanced-custom-fields/core/fields/image.php:118
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:367
+msgid "Return Value"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:164
+msgid "File Object"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:165
+msgid "File URL"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:166
+msgid "File ID"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:175
+#: lib/advanced-custom-fields/core/fields/image.php:158
+msgid "Library"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/file.php:187
+#: lib/advanced-custom-fields/core/fields/image.php:171
+msgid "Uploaded to post"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:18
+msgid "Google Map"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:33
+msgid "Locating"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:34
+msgid "Sorry, this browser does not support geolocation"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:120
+msgid "Clear location"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:125
+msgid "Find current location"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:126
+msgid "Search for address..."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:162
+msgid "Center"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:163
+msgid "Center the initial map"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:199
+msgid "Zoom"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:200
+msgid "Set the initial zoom level"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:217
+msgid "Height"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/google-map.php:218
+msgid "Customise the map height"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:19
+msgid "Image"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:27
+msgid "Select Image"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:28
+msgid "Edit Image"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:29
+msgid "Update Image"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:83
+msgid "Remove"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:90
+msgid "No image selected"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:90
+msgid "Add Image"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:119
+#: lib/advanced-custom-fields/core/fields/relationship.php:573
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:129
+msgid "Image Object"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:130
+msgid "Image URL"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:131
+msgid "Image ID"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:139
+msgid "Preview Size"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:140
+msgid "Shown when entering data"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/image.php:159
+msgid "Limit the media library choice"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/message.php:19
+#: lib/advanced-custom-fields/core/fields/message.php:70
+#: lib/advanced-custom-fields/core/fields/true_false.php:79
+msgid "Message"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/message.php:71
+msgid "Text &amp; HTML entered here will appear inline with the fields"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/message.php:72
+msgid "Please note that all text will first be passed through the wp function "
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/number.php:19
+msgid "Number"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/number.php:178
+msgid "Minimum Value"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/number.php:194
+msgid "Maximum Value"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/number.php:210
+msgid "Step Size"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/page_link.php:18
+msgid "Page Link"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/page_link.php:19
+#: lib/advanced-custom-fields/core/fields/post_object.php:19
+#: lib/advanced-custom-fields/core/fields/relationship.php:19
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:19
+#: lib/advanced-custom-fields/core/fields/user.php:19
+msgid "Relational"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/page_link.php:103
+#: lib/advanced-custom-fields/core/fields/post_object.php:268
+#: lib/advanced-custom-fields/core/fields/relationship.php:592
+#: lib/advanced-custom-fields/core/fields/relationship.php:671
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:75
+msgid "Post Type"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/page_link.php:127
+#: lib/advanced-custom-fields/core/fields/post_object.php:317
+#: lib/advanced-custom-fields/core/fields/select.php:214
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:333
+#: lib/advanced-custom-fields/core/fields/user.php:275
+msgid "Allow Null?"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/page_link.php:148
+#: lib/advanced-custom-fields/core/fields/post_object.php:338
+#: lib/advanced-custom-fields/core/fields/select.php:233
+msgid "Select multiple values?"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/password.php:19
+msgid "Password"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/post_object.php:18
+msgid "Post Object"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/post_object.php:292
+#: lib/advanced-custom-fields/core/fields/relationship.php:616
+msgid "Filter from Taxonomy"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/radio.php:18
+msgid "Radio Button"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/radio.php:105
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:91
+msgid "Other"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/radio.php:148
+msgid "Enter your choices one per line"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/radio.php:150
+msgid "Red"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/radio.php:151
+msgid "Blue"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/radio.php:175
+msgid "Add 'other' choice to allow for custom values"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/radio.php:187
+msgid "Save 'other' values to the field's choices"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:18
+msgid "Relationship"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:29
+msgid "Maximum values reached ( {max} values )"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:428
+msgid "Search..."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:439
+msgid "Filter by post type"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:572
+msgid "Return Format"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:583
+msgid "Post Objects"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:584
+msgid "Post IDs"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:650
+msgid "Search"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:651
+msgid "Post Type Select"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:659
+msgid "Elements"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:660
+msgid "Selected elements will be displayed in each result"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:669
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:106
+msgid "Featured Image"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:670
+msgid "Post Title"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/relationship.php:682
+msgid "Maximum posts"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/select.php:18
+#: lib/advanced-custom-fields/core/fields/select.php:109
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:324
+#: lib/advanced-custom-fields/core/fields/user.php:266
+msgid "Select"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/tab.php:19
+msgid "Tab"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/tab.php:68
+msgid "Use \"Tab Fields\" to better organize your edit screen by grouping your fields together under separate tab headings."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/tab.php:69
+msgid "All the fields following this \"tab field\" (or until another \"tab field\" is defined) will be grouped together."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/tab.php:70
+msgid "Use multiple tabs to divide your fields into sections."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:18
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:278
+msgid "Taxonomy"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:222
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:231
+msgid "None"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:308
+#: lib/advanced-custom-fields/core/fields/user.php:251
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:77
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:159
+msgid "Field Type"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:318
+#: lib/advanced-custom-fields/core/fields/user.php:260
+msgid "Multiple Values"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:320
+#: lib/advanced-custom-fields/core/fields/user.php:262
+msgid "Multi Select"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:322
+#: lib/advanced-custom-fields/core/fields/user.php:264
+msgid "Single Value"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:323
+msgid "Radio Buttons"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:352
+msgid "Load & Save Terms to Post"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:360
+msgid "Load value based on the post's terms and update the post's terms on save"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:377
+msgid "Term Object"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/taxonomy.php:378
+msgid "Term ID"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/text.php:19
+msgid "Text"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/text.php:176
+#: lib/advanced-custom-fields/core/fields/textarea.php:141
+msgid "Formatting"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/text.php:177
+#: lib/advanced-custom-fields/core/fields/textarea.php:142
+msgid "Effects value on front end"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/text.php:186
+#: lib/advanced-custom-fields/core/fields/textarea.php:151
+msgid "No formatting"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/text.php:187
+#: lib/advanced-custom-fields/core/fields/textarea.php:153
+msgid "Convert HTML into tags"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/text.php:195
+#: lib/advanced-custom-fields/core/fields/textarea.php:126
+msgid "Character Limit"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/text.php:196
+#: lib/advanced-custom-fields/core/fields/textarea.php:127
+msgid "Leave blank for no limit"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/textarea.php:19
+msgid "Text Area"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/textarea.php:152
+msgid "Convert new lines into &lt;br /&gt; tags"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/true_false.php:19
+msgid "True / False"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/true_false.php:80
+msgid "eg. Show extra content"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/user.php:18
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:94
+msgid "User"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/user.php:224
+msgid "Filter by role"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/wysiwyg.php:35
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/wysiwyg.php:213
+msgid "Toolbar"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/fields/wysiwyg.php:245
+msgid "Show Media Upload Buttons?"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:24
+msgid "New Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:58
+msgid "Field type does not exist"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:74
+msgid "Field Order"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:75
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:127
+msgid "Field Label"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:76
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:143
+msgid "Field Name"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:78
+msgid "Field Key"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:90
+msgid "No fields. Click the <strong>+ Add Field</strong> button to create your first field."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:105
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:108
+msgid "Edit this Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:109
+msgid "Read documentation for this field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:109
+msgid "Docs"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:110
+msgid "Duplicate this Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:110
+msgid "Duplicate"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:111
+msgid "Delete this Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:111
+msgid "Delete"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:128
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:144
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:173
+msgid "Field Instructions"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:174
+msgid "Instructions for authors. Shown when submitting data"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:186
+msgid "Required?"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:209
+msgid "Conditional Logic"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:260
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:117
+msgid "is equal to"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:261
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:118
+msgid "is not equal to"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:279
+msgid "Show this field when"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:285
+msgid "all"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:286
+msgid "any"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:289
+msgid "these rules are met"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:303
+msgid "Close Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:316
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_fields.php:317
+msgid "+ Add Field"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:48
+msgid "Rules"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:49
+msgid "Create a set of rules to determine which edit screens will use these advanced custom fields"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:60
+msgid "Show this field group if"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:76
+msgid "Logged in User Type"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:78
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:79
+msgid "Page"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:80
+msgid "Page Type"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:81
+msgid "Page Parent"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:82
+msgid "Page Template"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:84
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:85
+msgid "Post"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:86
+msgid "Post Category"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:87
+msgid "Post Format"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:88
+msgid "Post Status"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:89
+msgid "Post Taxonomy"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:92
+msgid "Attachment"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:93
+msgid "Taxonomy Term"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:146
+msgid "and"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_location.php:161
+msgid "Add rule group"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:25
+msgid "Order No."
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:26
+msgid "Field groups are created in order <br />from lowest to highest"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:42
+msgid "Position"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:52
+msgid "High (after title)"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:53
+msgid "Normal (after content)"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:54
+msgid "Side"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:64
+msgid "Style"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:74
+msgid "Seamless (no metabox)"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:75
+msgid "Standard (WP metabox)"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:84
+msgid "Hide on screen"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:85
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:86
+msgid "If multiple field groups appear on an edit screen, the first field group's options will be used. (the one with the lowest order number)"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:96
+msgid "Permalink"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:97
+msgid "Content Editor"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:98
+msgid "Excerpt"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:100
+msgid "Discussion"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:101
+msgid "Comments"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:102
+msgid "Revisions"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:103
+msgid "Slug"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:104
+msgid "Author"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:105
+msgid "Format"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:107
+msgid "Categories"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:108
+msgid "Tags"
+msgstr ""
+
+#: lib/advanced-custom-fields/core/views/meta_box_options.php:109
+msgid "Send Trackbacks"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:172
+#: lib/class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:173
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1275
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1824
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1949
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1950
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1950
+#: lib/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1950
+#: lib/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1952
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1956
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1957
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1958
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1959
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1961
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: search.php:56
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: single.php:91
+msgid "Pages:"
+msgstr ""
+
+#: tribe-events/list/nav.php:17
+msgid "Events List Navigation"
+msgstr ""
+
+#: tribe-events/list/nav.php:23 tribe-events/list/nav.php:29
+#: tribe-events/list/nav.php:32
+msgid "&laquo; Previous Events"
+msgstr ""
+
+#: tribe-events/list/nav.php:41 tribe-events/list/nav.php:44
+#: tribe-events/list/nav.php:50
+msgid "Next Events &raquo;"
+msgstr ""
+
+#: tribe-events/list/single-event.php:76
+msgid "Find out more"
+msgstr ""
+
+#: tribe-events/month/nav.php:18
+msgid "Calendar Month Navigation"
+msgstr ""
+
+#: tribe-events/single-event.php:38
+msgid "&laquo; All Events"
+msgstr ""
+
+#: tribe-events/single-event.php:47 tribe-events/single-event.php:89
+msgid "Event Navigation"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:21
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Flat Metro"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themes.webdevia.com/wp-flat-metro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A windows 8 like theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mymoun"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.webdevia.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Start Screan"
+msgstr ""
